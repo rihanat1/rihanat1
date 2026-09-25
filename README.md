@@ -26,7 +26,7 @@ With a BSc in Mathematics and Computer Science, I bring a strong foundation in l
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/6E7681" height="50" alt="GitHub" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/visualstudiocode.svg" height="50" alt="VS Code" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" alt="Figma" />
   &nbsp;&nbsp;
@@ -42,17 +42,17 @@ With a BSc in Mathematics and Computer Science, I bring a strong foundation in l
 <table>
   <tr>
     <td width="50%">
-      <h4>🍽️ RIRISLUXEEATS</h4>
+      <h4>RIRISLUXEEATS</h4>
       <p>React restaurant app with cart flow and API-driven menu. <em>In progress.</em></p>
     </td>
     <td width="50%">
-      <h4>💼 PPA Scout</h4>
+      <h4>PPA Scout</h4>
       <p>Tool helping NYSC corps members find their Place of Primary Assignment.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>💇🏽‍♀️ YAISHA</h4>
+      <h4>YAISHA</h4>
       <p>Landing page built for a real client — a professional hairstylist.</p>
     </td>
     <td width="50%">
