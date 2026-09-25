@@ -26,7 +26,7 @@ With a BSc in Mathematics and Computer Science, I bring a strong foundation in l
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/6E7681" height="50" alt="GitHub" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@9/icons/visualstudiocode.svg" height="50" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=visualstudiocode&logoColor=007ACC" height="50" alt="VS Code" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" alt="Figma" />
   &nbsp;&nbsp;
